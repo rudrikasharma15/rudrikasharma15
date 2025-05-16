@@ -36,8 +36,6 @@ With hands-on experience in AI-powered systems, embedded technologies,backend de
 - **Agricultural Distress Analysis**  
   Created a MySQL database analyzing crop yield, loan disbursements, and suicide statistics to identify risk regions and trends.  
 
-- **Crop Selection ML Model**  
-  Used Random Forest on a Kaggle dataset to help farmers identify suitable crops based on environmental inputs.
 
 ---
 
