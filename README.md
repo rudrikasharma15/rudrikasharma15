@@ -16,6 +16,7 @@ With hands-on experience in AI-powered systems, embedded technologies,backend de
 
 **Languages:** Java, Python  
 **Database:** MySQL  
+**Frontend development** HTML,CSS,JAVASCRIPT
 **Core Concepts:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Database Management Systems (DBMS), Deep Learning, Machine Learning, Cloud Computing, AWS 
 **Tools & Technologies:** Microsoft Excel, Power BI, PowerPoint, Canva (Designing)  
 **Version Control:** Git, GitHub  
