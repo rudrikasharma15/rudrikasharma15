@@ -16,27 +16,11 @@ With hands-on experience in AI-powered systems, embedded technologies,backend de
 
 **Languages:** Java, Python  
 **Database:** MySQL  
-**Frontend development** HTML,CSS,JAVASCRIPT
-
+**Frontend development** HTML,CSS,JAVASCRIPT,React
 **Core Concepts:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Database Management Systems (DBMS), Deep Learning, Machine Learning, Cloud Computing, AWS 
 **Tools & Technologies:** Microsoft Excel, Power BI, PowerPoint, Canva (Designing)  
 **Version Control:** Git, GitHub  
 **Soft Skills:** Teamwork, Communication, Fast Learner, Adaptability, Leadership, Project Mnagement
-
-
----
-
-## 💻 Projects
-
-- **Genomics-Based Cancer Predictor**  
-  Built with PyTorch Geometric & Graph Attention Networks to classify cancer types from multi-omics data.  
-  > Achieved 96% accuracy; focused on biomedical graph structures & high-dimensional data.
-
-- **AI-Powered Financial Advisory Bot**  
-  Developed using Streamlit, TensorFlow & Gemini AI for natural language financial queries, LSTM forecasting, live news, and macroeconomic indicators.
-
-- **Agricultural Distress Analysis**  
-  Created a MySQL database analyzing crop yield, loan disbursements, and suicide statistics to identify risk regions and trends.  
 
 
 ---
