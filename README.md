@@ -30,7 +30,7 @@ With hands-on experience in AI-powered systems, embedded technologies,backend de
 - 🟨 **AWS AI & ML Scholarship** – Selected among top 2000 globally for AI Programming Nanodegree  
 - 🥉 **IIT Bombay Hackathon** – Top performing team,selected in top 100 students nation-wide
 - 🥈 **Tech Tangle Research competion** – 1st Runner-up (AI in Medicine) 
-- 💡 **Smart India Hackathon** – Top 30 (Internal Round)
+- 💡 **Smart India Hackathon** – Top 30 
 
 ---
 
