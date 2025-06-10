@@ -1,13 +1,12 @@
 # 👋 Hi, I’m Rudrika Sharma
 
 🎓 Electronics and Telecommunication Engineering student at Cummins College of Engineering, Pune  
-🤖 AI/ML | Deep Learning | Full Stack Development | Cloud Enthusiast | Analyst
 
 ---
 
 ## 🚀 About Me
 
-I'm an aspiring  engineer deeply passionate about artificial intelligence, deep learning, and full stack development. I love building solutions that solve real-world problems.
+I'm an aspiring  engineer deeply passionate about artificial intelligence, deep learning,full stack development and finance. I love building solutions that solve real-world problems.
 With hands-on experience in AI-powered systems, embedded technologies,backend development,database management I bring technical depth, curiosity, and execution power to every project I work on.
 
 ---
@@ -27,6 +26,7 @@ With hands-on experience in AI-powered systems, embedded technologies,backend de
 ---
 
 ## 🏆 Achievements
+- **CITI CAMPUS INNOVATION Hackathon winner** 
 - **AWS AI with Python Scholarship** – Selected among top 2000 globally for AI Programming Nanodegree
 - **AWS and Udacity ML Scholarship nanodegree** – Double scholarship holder|Recieved second scholarship on the basis of performance and evaluation of AWS AI with python degree 
 - **IIT Bombay Hackathon** – Top performing team,selected in top 100 students nation-wide
