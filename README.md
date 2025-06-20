@@ -47,5 +47,5 @@ With hands-on experience in AI-powered systems, embedded technologies,backend de
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/rudrika-sharma-514490271) • [GitHub](https://github.com/rudrikasharma15) • [Email](mailto:rudrikasharma1503@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rudrika-sharma-514490271) • [GitHub](https://github.com/rudrikasharma15) • [Email](mailto:rudrikasharma1503@gmail.com)• [Medium](https://medium.com/@rudrikasharma1503)
 
