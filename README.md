@@ -1,4 +1,17 @@
-<h1 align="center" style="color:#2f81f7;">Rudrika Sharma</h1>
+<p align="center">
+  <svg width="100%" height="150">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Fira Code, monospace" fill="url(#grad1)">
+      RUDRIKA SHARMA
+    </text>
+  </svg>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=AI+%7C+ML+%7C+Full+Stack+Developer;Code.+Innovate.+Solve.+Repeat." alt="Typing SVG" />
