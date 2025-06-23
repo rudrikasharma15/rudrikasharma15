@@ -1,13 +1,16 @@
-# 👋 Hi, I’m Rudrika Sharma
+# 👋 Hi there, I'm **Rudrika Sharma**!
 
-🎓 Electronics and Telecommunication Engineering student at Cummins College of Engineering, Pune  
+🎓 *Electronics and Telecommunication Engineering student @ Cummins College of Engineering, Pune*  
+🚀 *Tech Geek | Innovator | Leader*
 
 ---
 
 ## 🚀 About Me
 
-I'm an aspiring  engineer deeply passionate about artificial intelligence, deep learning,full stack development and finance. I love building solutions that solve real-world problems.
-With hands-on experience in AI-powered systems, embedded technologies,backend development,database management I bring technical depth, curiosity, and execution power to every project I work on.
+🌟 I'm an **aspiring engineer** passionate about building solutions that solve real-world problems.  
+I explore **Artificial Intelligence**, **Deep Learning**, **Full Stack Development**, and **Finance Tech**.  
+
+💻 I love working on AI-powered systems, embedded tech, backend architectures, and database management. I bring **curiosity**, **technical depth**, and **execution power** to every project!
 
 ---
 
@@ -15,38 +18,56 @@ With hands-on experience in AI-powered systems, embedded technologies,backend de
 
 **Languages:** Java, Python  
 **Database:** MySQL  
-**Frontend development** HTML,CSS,JAVASCRIPT,React,WEB3.js
-**Core Concepts:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Database Management Systems (DBMS), Deep Learning, Machine Learning, Cloud Computing, AWS,Blockchain 
-**Tools & Technologies:** Microsoft Excel, Power BI, PowerPoint,Canva 
+**Frontend:** HTML, CSS, JavaScript, React, Web3.js  
+**Backend:** Java, Python  
+**Core Concepts:** OOP, DSA, DBMS, Deep Learning, Machine Learning, Cloud Computing (AWS), Blockchain  
+**Tools:** Microsoft Excel, Power BI, PowerPoint, Canva  
 **Version Control:** Git, GitHub  
-**Deployment:** Vercel
-**Soft Skills:** Teamwork, Communication, Fast Learner, Adaptability, Leadership, Project Mnagement
-
+**Deployment:** Vercel  
+**Soft Skills:** Teamwork, Communication, Fast Learner, Adaptability, Leadership, Project Management  
 
 ---
 
 ## 🏆 Achievements
-- **CITI CAMPUS INNOVATION Hackathon winner**
-- **EATON Pratibha Excellence Award Winner** 
-- **AWS AI with Python Scholarship** – Selected among top 2000 globally for AI Programming Nanodegree
-- **AWS and Udacity ML Scholarship nanodegree** – Double scholarship holder|Recieved second scholarship on the basis of performance and evaluation of AWS AI with python degree 
-- **IIT Bombay Hackathon** – Top performing team,selected in top 100 students nation-wide
-- **Tech Tangle Research competion** – 1st Runner-up (AI in Medicine) 
-- **Smart India Hackathon** – Top 30 
+
+🏅 **CITI Campus Innovation Hackathon Winner**  
+🏅 **EATON Pratibha Excellence Award**  
+🏅 **AWS AI with Python Scholarship** — Top 2,000 globally  
+🏅 **AWS & Udacity ML Nanodegree Scholarship** — Double Scholarship Winner  
+🏅 **IIT Bombay Hackathon** — Top 100 nationwide  
+🏅 **Tech Tangle Research (AI in Medicine)** — 1st Runner-up  
+🏅 **Smart India Hackathon** — Top 30 finalist  
 
 ---
 
-## 👥 Leadership
+## 👑 Leadership & Impact
 
-- 🎥 **Founder & Director – Unscripted Media** | Leading a 65+ member team | 1M+ reach | featured in campus times pune
-- 🎤 **Co-Organizer – TEDxCCOEW** | Head of Social Media  
-- 📡 **Vice Chairperson – IETE Forum**  
-- ❤️ **Educational Mentor – Bhumi NGO**  
-- ⚙️ **Assistant Operations Secretary – ENTC Department**
+🎥 **Founder & Director — Unscripted Media** | Leading 65+ member team | 1M+ reach | Featured in Campus Times Pune  
+🎤 **Co-Organizer — TEDxCCOEW** | Head of Social Media  
+📡 **Vice Chairperson — IETE Forum**  
+❤️ **Educational Mentor — Bhumi NGO**  
+⚙️ **Assistant Operations Secretary — ENTC Department**
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Stats
 
-[LinkedIn](https://www.linkedin.com/in/rudrika-sharma-514490271) • [GitHub](https://github.com/rudrikasharma15) • [Email](mailto:rudrikasharma1503@gmail.com)• [Medium](https://medium.com/@rudrikasharma1503)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=radical" alt="Rudrika's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rudrikasharma15&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
+---
+
+## 📫 Connect With Me
+
+🌐 [LinkedIn](https://www.linkedin.com/in/rudrika-sharma-514490271) | [GitHub](https://github.com/rudrikasharma15) | [Medium](https://medium.com/@rudrikasharma1503) | [Email](mailto:rudrikasharma1503@gmail.com)
+
+---
+
+> ⚡ *“Code. Learn. Innovate. Inspire.”*
