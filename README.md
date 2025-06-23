@@ -26,7 +26,8 @@ With hands-on experience in AI-powered systems, embedded technologies,backend de
 ---
 
 ## 🏆 Achievements
-- **CITI CAMPUS INNOVATION Hackathon winner** 
+- **CITI CAMPUS INNOVATION Hackathon winner**
+- **EATON Pratibha Excellence Award Winner** 
 - **AWS AI with Python Scholarship** – Selected among top 2000 globally for AI Programming Nanodegree
 - **AWS and Udacity ML Scholarship nanodegree** – Double scholarship holder|Recieved second scholarship on the basis of performance and evaluation of AWS AI with python degree 
 - **IIT Bombay Hackathon** – Top performing team,selected in top 100 students nation-wide
