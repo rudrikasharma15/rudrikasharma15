@@ -1,74 +1,67 @@
-# 👋 Hey, I'm **Rudrika Sharma**
+# 👋 Hi, I’m Rudrika Sharma
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rudrika-sharma-514490271)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/rudrikasharma15)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat-square)](https://medium.com/@rudrikasharma1503)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square)](mailto:rudrikasharma1503@gmail.com)
+🎓 *Electronics & Telecommunication Engineering | Cummins College of Engineering, Pune*  
+💻 *AI/ML | Full Stack Development | Embedded Systems | Finance Tech Enthusiast*
 
 ---
 
-## 💻 About Me
+## 🚀 About Me
 
-🚀 *Passionate Engineer | Full Stack Developer | AI/ML Enthusiast | Future FinTech Innovator*  
-
-👨‍💻 I love designing solutions that **solve real-world problems** using:
-- 🧠 **Artificial Intelligence & Deep Learning**
+I’m an engineer driven by **curiosity** and **execution power**.  
+I love crafting solutions that tackle **real-world problems** through:  
+- 🤖 **AI / Deep Learning**
 - 🌐 **Full Stack Development**
-- 📊 **Data & Finance Tech**
 - ⚡ **Embedded & Cloud Systems**
-
-💡 *Always hacking, always learning, always building.*
+- 💰 **FinTech & Data Engineering**
 
 ---
 
 ## 🛠️ Tech Stack
 
-| 💻 Languages | 🌐 Frontend | ⚙️ Backend | ☁️ Cloud | 🛢 DB | 🛠 Tools |
-| ------------ | ----------- | ---------- | -------- | ------ | -------- |
-| Java, Python | HTML, CSS, JS, React, Web3.js | Java, Python | AWS | MySQL | Git, GitHub, Vercel, Power BI |
+| Languages | Frontend | Backend | Database | Cloud / DevOps | Tools |
+|------------|----------|---------|----------|----------------|-------|
+| Java, Python | HTML, CSS, JavaScript, React, Web3.js | Java, Python | MySQL | AWS, Vercel | Git, GitHub, Power BI, Canva |
 
 ---
 
 ## 🏆 Achievements
 
-🏅 **CITI Campus Innovation Hackathon — Winner**  
-🏅 **EATON Pratibha Excellence Award**  
-🏅 **AWS AI/ML Double Scholarship Holder**  
-🏅 **Top 100 IIT Bombay Hackathon**  
-🏅 **Smart India Hackathon — Top 30 Finalist**
+- 🏅 **CITI Campus Innovation Hackathon – Winner**
+- 🏅 **EATON Pratibha Excellence Award**
+- 🏅 **AWS AI with Python Scholarship – Top 2000 globally**
+- 🏅 **AWS & Udacity ML Nanodegree Scholarship – Double winner**
+- 🏅 **IIT Bombay Hackathon – Top 100 Nationwide**
+- 🏅 **Tech Tangle AI Research – 1st Runner-up**
+- 🏅 **Smart India Hackathon – Top 30 Finalist**
 
 ---
 
-## 📈 My GitHub World
+## 👑 Leadership
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rudrikasharma15&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrikasharma15&theme=tokyonight" alt="Profile Details" />
-</p>
+- 🎥 **Founder & Director — Unscripted Media (65+ team, 1M+ reach)**
+- 🎤 **Co-Organizer — TEDxCCOEW (Head of Social Media)**
+- 📡 **Vice Chairperson — IETE Forum**
+- ❤️ **Educational Mentor — Bhumi NGO**
+- ⚙️ **Assistant Operations Secretary — ENTC Department**
 
 ---
 
-## 🚀 I Build, I Break, I Learn, I Ship
+## 📊 GitHub Stats
 
-⚡ *Code. Innovate. Break. Build. Repeat.*  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=github_dark" height="180" />
+</div>
 
-🌟 Always open to cool collaborations, hackathons, and side projects!
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rudrikasharma15&theme=github-dark-blue&hide_border=false" height="180" />
+</div>
 
 ---
 
-## 🔗 Let’s Connect
+## 📫 Connect with Me
 
-📫 [rudrikasharma1503@gmail.com](mailto:rudrikasharma1503@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rudrika-sharma-514490271) | [GitHub](https://github.com/rudrikasharma15) | [Medium](https://medium.com/@rudrikasharma1503)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rudrika-sharma-514490271)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/rudrikasharma15)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium)](https://medium.com/@rudrikasharma1503)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail)](mailto:rudrikasharma1503@gmail.com)
