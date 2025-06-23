@@ -36,6 +36,10 @@ I bring technical depth, curiosity, and execution power to every project.
 
 ## 🏆 Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=juicyfresh&margin-w=10&title=Stars,Followers,Repositories,Commits,PullRequest,Issues"/>
+</p>
+
 - **CITI Campus Innovation Hackathon — Winner**
 - **EATON Pratibha Excellence Award**
 - **AWS AI with Python Scholarship — Top 2000 globally**
@@ -43,14 +47,6 @@ I bring technical depth, curiosity, and execution power to every project.
 - **IIT Bombay Hackathon — Top 100 Nationwide**
 - **Tech Tangle AI Research — 1st Runner-up (AI in Medicine)**
 - **Smart India Hackathon — Top 30 Finalist**
-
----
-
-## 🎖 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=flat&margin-w=10&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" />
-</p>
 
 ---
 
@@ -67,6 +63,22 @@ I bring technical depth, curiosity, and execution power to every project.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rudrikasharma15&label=Profile%20views&color=2f81f7&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudrikasharma15/rudrikasharma15/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
+</p>
+
+---
+
+## 🌍 Visitor Map
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="visitors map placeholder (replace with actual if you deploy one)"/>
 </p>
 
 ---
