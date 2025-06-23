@@ -1,68 +1,66 @@
 # 👋 Hi, I’m Rudrika Sharma
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rudrika-sharma-514490271)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/rudrikasharma15)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat-square)](https://medium.com/@rudrikasharma1503)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square)](mailto:rudrikasharma1503@gmail.com)
-
----
-
 🎓 *Electronics and Telecommunication Engineering student at Cummins College of Engineering, Pune*
 
 ---
 
 ## 🚀 About Me
 
-I’m an engineer passionate about building **real-world solutions** through:
-- 🤖 Artificial Intelligence & Deep Learning  
-- 🌐 Full Stack Development  
-- ⚡ Embedded & Cloud Systems  
-- 💰 Finance Tech  
+I'm an aspiring engineer deeply passionate about **Artificial Intelligence**, **Deep Learning**, **Full Stack Development**, and **Finance**.  
 
-Driven by curiosity, I bring **technical depth + execution power** to every project.
+I love building solutions that solve real-world problems.  
+With hands-on experience in **AI-powered systems**, **embedded technologies**, **backend development**, and **database management**, I bring technical depth, curiosity, and execution power to every project I work on.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-| 🚀 Languages | 🌐 Frontend | ⚙️ Backend | 🛢 Database | ☁️ Cloud / Deployment | 🛠 Tools |
-|-------------|-------------|------------|--------------|----------------------|----------|
-| ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white&style=flat-square) | Java, Python | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square) | Git, GitHub, Power BI, Excel, Canva |
+| **Languages** | **Frontend** | **Backend / DB** | **Cloud / Deployment** | **Tools** | **Soft Skills** |
+|---------------|--------------|------------------|-----------------------|-----------|----------------|
+| Java, Python | HTML, CSS, JavaScript, React, Web3.js | MySQL | AWS, Vercel | Git, GitHub, Excel, Power BI, PowerPoint, Canva | Teamwork, Communication, Fast Learner, Adaptability, Leadership, Project Management |
 
-**Core Concepts:** OOP, DSA, DBMS, Deep Learning, Machine Learning, Cloud Computing, Blockchain  
-**Soft Skills:** Teamwork, Communication, Fast Learner, Adaptability, Leadership, Project Management  
+💡 **Core Concepts:** OOP, DSA, DBMS, Deep Learning, Machine Learning, Cloud Computing, Blockchain  
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 **CITI Campus Innovation Hackathon – Winner**
-- 🏅 **EATON Pratibha Excellence Award**
-- 🏅 **AWS AI with Python Scholarship – Top 2000 globally**
-- 🏅 **AWS & Udacity ML Nanodegree Scholarship – Double winner**
-- 🏅 **IIT Bombay Hackathon – Top 100 nationwide**
-- 🏅 **Tech Tangle Research (AI in Medicine) – 1st Runner-up**
-- 🏅 **Smart India Hackathon – Top 30 finalist**
+- 🏅 **CITI Campus Innovation Hackathon — Winner**
+- 🏅 **EATON Pratibha Excellence Award Winner**
+- 🏅 **AWS AI with Python Scholarship** – Selected among top 2000 globally for AI Programming Nanodegree
+- 🏅 **AWS and Udacity ML Scholarship Nanodegree** – Double scholarship holder (awarded second based on performance in AI with Python Nanodegree)
+- 🏅 **IIT Bombay Hackathon** – Top 100 students nationwide
+- 🏅 **Tech Tangle Research Competition** – 1st Runner-up (AI in Medicine)
+- 🏅 **Smart India Hackathon** – Top 30
 
 ---
 
 ## 👑 Leadership
 
-- 🎥 **Founder & Director – Unscripted Media** | 65+ team | 1M+ reach | Featured in Campus Times Pune  
-- 🎤 **Co-Organizer – TEDxCCOEW** | Head of Social Media  
-- 📡 **Vice Chairperson – IETE Forum**  
-- ❤️ **Educational Mentor – Bhumi NGO**  
-- ⚙️ **Assistant Operations Secretary – ENTC Department**
+- 🎥 **Founder & Director — Unscripted Media** | Leading a 65+ member team | 1M+ reach | Featured in Campus Times Pune
+- 🎤 **Co-Organizer — TEDxCCOEW** | Head of Social Media
+- 📡 **Vice Chairperson — IETE Forum**
+- ❤️ **Educational Mentor — Bhumi NGO**
+- ⚙️ **Assistant Operations Secretary — ENTC Department**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=github_dark&count_private=true&hide=issues" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=github_dark" height="180" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rudrikasharma15&theme=github-dark-blue&hide_border=false" height="180" />
 </div>
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rudrika-sharma-514490271)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/rudrikasharma15)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium)](https://medium.com/@rudrikasharma1503)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail)](mailto:rudrikasharma1503@gmail.com)
