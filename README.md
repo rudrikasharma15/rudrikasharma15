@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#2f81f7;">Rudrika Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=AI+%7C+ML+%7C+Full+Stack+Developer;Code.+Innovate.+Solve.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=AI+%7C+ML+%7C+Software+Development;Code.+Innovate.+Solve.+Repeat." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,13 +40,12 @@ I bring technical depth, curiosity, and execution power to every project.
   <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=algolia&margin-w=10&title=Stars,Followers,Repositories,Commits,PullRequest,Issues"/>
 </p>
 
-- **CITI Campus Innovation Hackathon — Winner**
-- **EATON Pratibha Excellence Award**
+- **CITI Campus Innovation Hackathon Winner**
+- **EATON Pratibha Excellence Award Winner**
 - **AWS AI with Python Scholarship — Top 2000 globally**
 - **AWS + Udacity ML Nanodegree — Double Scholarship Winner**
 - **IIT Bombay Hackathon — Top 100 Nationwide**
 - **Tech Tangle AI Research — 1st Runner-up (AI in Medicine)**
-- **Smart India Hackathon — Top 30 Finalist**
 
 ---
 
@@ -70,7 +69,7 @@ I bring technical depth, curiosity, and execution power to every project.
 ## 🧭 Leadership
 
 - **Founder & Director – Unscripted Media (65+ team | 1M+ reach | Featured in Campus Times Pune)**
-- **Co-Organizer – TEDxCCOEW (Head of Social Media)**
+- **Co-Organizer – TEDxCCOEW**
 - **Vice Chairperson – IETE Forum**
 - **Educational Mentor – Bhumi NGO**
 - **Assistant Operations Secretary – ENTC Department**
