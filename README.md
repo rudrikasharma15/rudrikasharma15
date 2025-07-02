@@ -58,7 +58,7 @@ I bring technical depth, curiosity, and execution power to every project.
 - **AWS AI with Python Scholarship — Top 2000 globally**
 - **AWS + Udacity ML Nanodegree — Double Scholarship Winner**
 - **IIT Bombay Hackathon — Top 100 Nationwide**
-- **Tech Tangle AI Research — 1st Runner-up (AI in Medicine)**
+- ** AI Research Competition — 1st Runner-up (AI in Medicine)**
 
 ---
 
