@@ -1,59 +1,60 @@
-<h1 align="center" style="color:#2f81f7;">Rudrika Sharma</h1>
-
+<!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=AI+%7C+ML+%7C+Software+Development;Code.+Innovate.+Solve.+Repeat." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:8a2be2&height=250&section=header&text=Rudrika%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Rudrika Sharma Banner" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <em>Electronics & Telecommunication Engineering Student | Cummins College of Engineering, Pune</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Innovator+%7C+Full-Stack+Developer;Hackathon+Winner+%7C+Building+Impactful+Tech" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m an engineer passionate about building **AI-powered**, **ML-driven**, and **full-stack solutions** that create real-world impact.  
-I bring technical depth, curiosity, and execution power to every project.  
+Hi, I’m **Rudrika Sharma** — a passionate **AI/ML engineer and full-stack developer** turning ideas into scalable solutions.  
+I bring **technical depth, curiosity, and execution power** to every project — from **AI-powered apps** to **enterprise-grade full-stack systems**.
+
+- 🏆 **Hackathon Winner (Top 1% Nationwide)** — Citi, IIT Bombay  
+- 🌐 **Founder & Director of Unscripted Media** (65+ team, 1M+ reach)  
+- 💻 **Expertise:** AI, ML, MERN Stack, AWS, and scalable backend systems  
+- 🚀 **Goal:** Build tech that transforms industries and careers
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" height="45"/>
+  
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" height="45"/>
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,git,github,docker" height="45"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=algolia&margin-w=10&title=Stars,Followers,Repositories,Commits,PullRequest,Issues"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=algolia&margin-w=10&title=Commits,Followers,Repositories,Stars,PullRequest,Issues" />
 </p>
 
-- **CITI Campus Innovation Hackathon Winner**
-- **EATON Pratibha Excellence Award Winner**
-- **AWS AI with Python Scholarship — Top 2000 globally**
-- **AWS + Udacity ML Nanodegree — Double Scholarship Winner**
-- **IIT Bombay Hackathon — Top 100 Nationwide**
-- **AI Research Competition — 1st Runner-up (AI in Medicine)**
+- 🥇 **CITI Campus Innovation Hackathon Winner**  
+- 🏅 **EATON Pratibha Excellence Award Winner**  
+- 🎓 **AWS AI & ML Nanodegree — Top 2000 globally**  
+- 🧠 **AI Research Competition — 1st Runner-up (AI in Medicine)**  
+- 🚀 **IIT Bombay Hackathon — Top 100 Nationwide**
+
+---
 
 ## 📢 Open Source Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ## 📢 Open Source Stats (Auto-Updated)
@@ -61,11 +62,43 @@ I bring technical depth, curiosity, and execution power to every project.
 <!--START_SECTION:metrics-->
 <!--END_SECTION:metrics-->
 
+---
 
+## 🌟 Featured Projects
 
-## 🧭 Leadership
+### 1. [AI-Powered Crop Recommendation System](#)  
+- **Machine Learning (Random Forest) + Kaggle dataset**
+- Helps farmers optimize crop yield by predicting the best crop based on soil & weather.
+- **Tech Stack:** Python, Pandas, Scikit-Learn, Flask
 
-- **Founder & Director – Unscripted Media (65+ team | 1M+ reach | Featured in Campus Times Pune)**
+### 2. [Namaste Bangalore Cafe Management System](#)  
+- Comprehensive cafe POS & management built with **Java (JDBC + JFrame)**.
+- **Live in Vishal Nagar, PCMC.**
+
+### 3. [Freelancer Connect Platform](#)  
+- Full-stack platform helping **freelancers and clients connect seamlessly**.
+- **Tech Stack:** Java, MySQL, Spring Boot (in progress)
+
+*(More projects on [my GitHub](https://github.com/rudrikasharma15))*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rudrikasharma15&theme=radical&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🧭 Leadership Roles
+
+- **Founder & Director – Unscripted Media (65+ team, 1M+ reach, Featured in Campus Times Pune)**
 - **Co-Organizer – TEDxCCOEW**
 - **Vice Chairperson – IETE Forum**
 - **Educational Mentor – Bhumi NGO**
@@ -73,7 +106,7 @@ I bring technical depth, curiosity, and execution power to every project.
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rudrika-sharma-514490271">
@@ -88,4 +121,10 @@ I bring technical depth, curiosity, and execution power to every project.
   <a href="mailto:rudrikasharma1503@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:2f81f7&height=120&section=footer"/>
 </p>
