@@ -58,11 +58,10 @@ I bring technical depth, curiosity, and execution power to every project.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Merged-25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Issues%20Closed-10-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Projects-5-purple?style=for-the-badge" />
-</p>
+## 📢 Open Source Stats (Auto-Updated)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
