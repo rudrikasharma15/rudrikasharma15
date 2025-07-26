@@ -50,7 +50,6 @@ I bring technical depth, curiosity, and execution power to every project.
 - **IIT Bombay Hackathon — Top 100 Nationwide**
 - **AI Research Competition — 1st Runner-up (AI in Medicine)**
 
-
 ## 📢 Open Source Contributions
 
 <p align="center">
@@ -61,7 +60,6 @@ I bring technical depth, curiosity, and execution power to every project.
 
 <!--START_SECTION:metrics-->
 <!--END_SECTION:metrics-->
-
 
 
 
