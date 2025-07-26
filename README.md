@@ -66,7 +66,11 @@ I bring technical depth, curiosity, and execution power to every project.
 
 ---
 
-## 📊 GitHub Stats
+## 📢 Open Source Stats
+
+<!--START_SECTION:metrics-->
+<!--END_SECTION:metrics-->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=blueberry&count_private=true&hide=issues" height="180"/>
