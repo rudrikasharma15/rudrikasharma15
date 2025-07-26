@@ -1,0 +1,25 @@
+name: Update README with Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Fetches stats and updates your README
+      - name: Update GitHub Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_TOTAL_COMMITS: "true"
+          SHOW_PRs: "true"
+          SHOW_ISSUES: "true"
+          SHOW_LOC_CHART: "false"
