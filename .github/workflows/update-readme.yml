@@ -1,25 +1,25 @@
-name: Update README with Contributions
+name: Update README Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      # Fetches stats and updates your README
-      - name: Update GitHub Stats
-        uses: anmol098/waka-readme-stats@master
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_LINES_OF_CODE: "true"
-          SHOW_PROFILE_VIEWS: "true"
-          SHOW_PROJECTS: "true"
-          SHOW_TOTAL_COMMITS: "true"
-          SHOW_PRs: "true"
-          SHOW_ISSUES: "true"
-          SHOW_LOC_CHART: "false"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rudrikasharma15
+          template: classic
+          base: activity, community, repositories
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_lines: yes
+          plugin_followup: yes
