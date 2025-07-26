@@ -66,26 +66,19 @@ I bring technical depth, curiosity, and execution power to every project.
 
 ---
 
-## 📢 Open Source Stats
+## 📢 Open Source Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true" />
+</p>
+
+## 📢 Open Source Stats (Auto-Updated)
 
 <!--START_SECTION:metrics-->
 <!--END_SECTION:metrics-->
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=blueberry&count_private=true&hide=issues" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=blueberry" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rudrikasharma15&theme=blueberry&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudrikasharma15&label=Profile%20views&color=2f81f7&style=flat" alt="Profile Views"/>
-</p>
-
----
 
 ## 🧭 Leadership
 
