@@ -14,9 +14,9 @@
 
 ---
 
-<!-- GLOWING DIVIDER -->
+<!-- RELIABLE GLOW DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
+  <img src="https://img.shields.io/badge/-⚡-1e90ff?style=for-the-badge&logoColor=white&color=0d1117" alt="Divider" />
 </p>
 
 ## 🚀 About Me
@@ -29,11 +29,7 @@ I bring **technical depth, curiosity, and execution power** to every project.
 ## 🛠 Tech Stack (Futuristic Mode)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mongodb,express,react,nodejs,mysql,aws,git,github&theme=light" height="55" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mongodb,express,react,nodejs,mysql,aws,git,github" height="55" />
 </p>
 
 ---
@@ -101,9 +97,9 @@ I bring **technical depth, curiosity, and execution power** to every project.
 
 ---
 
-<!-- GLOWING DIVIDER -->
+<!-- RELIABLE GLOW DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
+  <img src="https://img.shields.io/badge/-⚡-1e90ff?style=for-the-badge&logoColor=white&color=0d1117" alt="Divider" />
 </p>
 
 ## 🌐 Connect with Me
