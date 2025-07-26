@@ -44,6 +44,13 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
   <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=algolia&margin-w=10&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" />
 </p>
 
+## 📊 Open Source Stats (Auto-Updated)  
+
+<!--START_SECTION:metrics-->
+<!--END_SECTION:metrics-->
+
+*(This auto-updates daily via GitHub Actions)*
+
 <ul>
   <li><b>CITI Campus Innovation Hackathon Winner</b></li>
   <li><b>EATON Pratibha Excellence Award Winner</b></li>
