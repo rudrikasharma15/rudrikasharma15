@@ -58,12 +58,16 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">📢 Open Source Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" alt="Contribution Graph" />
+  <!-- Dynamic GitHub badges -->
+  <img src="https://img.shields.io/github/followers/rudrikasharma15?label=Followers&logo=github&style=for-the-badge&color=1e90ff&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/rudrikasharma15?label=Stars&logo=github&style=for-the-badge&color=00bfff&logoColor=white" />
+  <img src="https://img.shields.io/github/issues-closed/rudrikasharma15/Dev-Elevate?label=Issues%20Closed&logo=github&style=for-the-badge&color=4169e1&logoColor=white" />
+  <img src="https://img.shields.io/github/issues-pr-closed/rudrikasharma15/Dev-Elevate?label=PRs%20Merged&logo=github&style=for-the-badge&color=00ced1&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrikasharma15&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrikasharma15&theme=tokyonight" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" alt="Contribution Graph" />
 </p>
 
 ---
