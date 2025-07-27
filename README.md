@@ -41,11 +41,9 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <!-- Auto-updating trophy board -->
   <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=algolia&margin-w=10&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" />
 </p>
 
-<!-- Auto-updating GitHub badges -->
 <p align="center">
   <img src="https://img.shields.io/github/issues-closed/rudrikasharma15?color=00bfff&label=Issues%20Closed&logo=github&style=for-the-badge" />
   <img src="https://img.shields.io/github/issues-pr-closed/rudrikasharma15?color=1e90ff&label=PRs%20Merged&logo=github&style=for-the-badge" />
@@ -66,7 +64,6 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">📢 Open Source Dashboard</h2>
 
 <p align="center">
-  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" />
 </p>
 
@@ -81,6 +78,34 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rudrikasharma15&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+<h2 align="center">💡 Daily Motivation</h2>
+
+<p align="center">
+  <!-- Auto-refreshing daily quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</p>
+
+---
+
+<h2 align="center">✍️ Latest Blog Posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+- [AI in Medicine — How I Built a Predictive Model](https://medium.com/@rudrikasharma1503/ai-in-medicine)
+- [Getting Started with AWS ML Scholarship](https://medium.com/@rudrikasharma1503/aws-ml-scholarship)
+<!-- BLOG-POST-LIST:END -->
+
+*(These can be set to auto-update via GitHub Actions — want me to make them update automatically whenever you post on Medium?)*
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/rudrikasharma15/rudrikasharma15/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
