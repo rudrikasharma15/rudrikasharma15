@@ -21,7 +21,6 @@
 
 ---
 
-<!-- GRADIENT TITLE -->
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
@@ -42,7 +41,15 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
+  <!-- Auto-updating trophy board -->
   <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=algolia&margin-w=10&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" />
+</p>
+
+<!-- Auto-updating GitHub badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/issues-closed/rudrikasharma15?color=00bfff&label=Issues%20Closed&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr-closed/rudrikasharma15?color=1e90ff&label=PRs%20Merged&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/rudrikasharma15?color=4169e1&label=Public%20Repos&logo=github&style=for-the-badge" />
 </p>
 
 <ul>
@@ -59,13 +66,8 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">📢 Open Source Dashboard</h2>
 
 <p align="center">
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Merged-25-1e90ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Issues%20Closed-10-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Projects-5-4169e1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
