@@ -1,3 +1,4 @@
+
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=250&section=header&text=Rudrika%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Rudrika Sharma Banner" />
@@ -21,6 +22,7 @@
 
 ---
 
+<!-- GRADIENT TITLE -->
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
@@ -41,7 +43,7 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=tokyonight&margin-w=10&no-frame=true&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=algolia&margin-w=10&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" />
 </p>
 
 <ul>
@@ -58,21 +60,14 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">📢 Open Source Dashboard</h2>
 
 <p align="center">
-  <!-- Auto-updated via GitHub Actions -->
-  <img src="https://img.shields.io/badge/PRs%20Merged-<!--PR_COUNT-->0<!--END_PR_COUNT-->-00bfff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Issues%20Closed-<!--ISSUE_COUNT-->0<!--END_ISSUE_COUNT-->-1e90ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-25-1e90ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Issues%20Closed-10-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Projects-5-4169e1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </p>
-
----
-
-<h2 align="center">📖 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -85,14 +80,6 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rudrikasharma15&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rudrikasharma15/rudrikasharma15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
