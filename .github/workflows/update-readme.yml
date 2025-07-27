@@ -1,26 +1,47 @@
-name: Generate Snake Animation
+name: Update Profile (Snake, Blogs, Stats)
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
-  build:
+  update-profile:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
+      # ---- Generate Snake Animation ----
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: rudrikasharma15
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake to Output Branch
+      # ---- Fetch Medium Blog Posts ----
+      - name: Fetch Medium Blogs
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@rudrikasharma1503"
+
+      # ---- Fetch Total PRs & Issues ----
+      - name: Fetch PR/Issue Stats
+        id: stats
+        run: |
+          echo "TOTAL_PRS=$(curl -s "https://api.github.com/search/issues?q=author:rudrikasharma15+type:pr+is:merged" | jq '.total_count')" >> $GITHUB_ENV
+          echo "TOTAL_ISSUES=$(curl -s "https://api.github.com/search/issues?q=author:rudrikasharma15+type:issue+is:closed" | jq '.total_count')" >> $GITHUB_ENV
+
+      # ---- Inject Stats into README ----
+      - name: Update README
+        run: |
+          sed -i "s|<!--PR_COUNT-->.*<!--END_PR_COUNT-->|<!--PR_COUNT-->${TOTAL_PRS}<!--END_PR_COUNT-->|" README.md
+          sed -i "s|<!--ISSUE_COUNT-->.*<!--END_ISSUE_COUNT-->|<!--ISSUE_COUNT-->${TOTAL_ISSUES}<!--END_ISSUE_COUNT-->|" README.md
+
+      # ---- Commit & Push Changes ----
+      - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
-          message: "Generate Snake Animation"
-          add: "dist/github-contribution-grid-snake.svg"
+          author_name: "GitHub Actions"
+          message: "Update snake, blogs, and PR/Issue stats"
+          add: "README.md dist/github-contribution-grid-snake.svg"
