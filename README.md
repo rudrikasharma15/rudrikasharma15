@@ -41,7 +41,6 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <!-- Trophy board (auto-fetch) -->
   <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=tokyonight&margin-w=10&no-frame=true&column=6" alt="GitHub Trophies" />
 </p>
 
@@ -59,16 +58,20 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">📢 Open Source Dashboard</h2>
 
 <p align="center">
-  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <!-- Auto-updating badges -->
-  <img src="https://img.shields.io/github/issues-closed/rudrikasharma15?color=00bfff&label=Issues%20Closed&logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-pr-closed/rudrikasharma15?color=1e90ff&label=PRs%20Merged&logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/rudrikasharma15?color=4169e1&label=Public%20Repos&logo=github&style=for-the-badge" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrikasharma15&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrikasharma15&theme=tokyonight" />
 </p>
+
+---
+
+<h2 align="center">📖 Latest Blog Posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -88,7 +91,6 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <!-- Snake animation (will work after Action is set up) -->
   <img src="https://raw.githubusercontent.com/rudrikasharma15/rudrikasharma15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 

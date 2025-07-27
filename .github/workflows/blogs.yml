@@ -1,0 +1,16 @@
+name: Latest Medium Blogs
+
+on:
+  schedule:
+    - cron: '0 * * * *' # updates every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Pull in Medium Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@rudrikasharma1503"

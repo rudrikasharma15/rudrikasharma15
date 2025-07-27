@@ -1,25 +1,26 @@
-name: Update README Stats
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v2
 
-      - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: rudrikasharma15
-          template: classic
-          base: activity, community, repositories
-          config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_lines: yes
-          plugin_followup: yes
+          github_user_name: rudrikasharma15
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake to Output Branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: "Generate Snake Animation"
+          add: "dist/github-contribution-grid-snake.svg"
