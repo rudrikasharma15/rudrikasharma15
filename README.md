@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=250&section=header&text=Rudrika%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Rudrika Sharma Banner" />
 </p>
 
-<!-- TYPING EFFECT -->
+<!-- TYPING EFFECT (ONLY ONCE) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%7C+ML+%7C+Full-Stack+Development;Innovating+with+Tech+and+AI;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
@@ -14,10 +14,15 @@
 
 ---
 
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudrikasharma15&label=Profile%20Views&color=1e90ff&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 <!-- GRADIENT TITLE -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=350&lines=🚀+About+Me" alt="About Me"/>
-</h2>
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
 I’m an engineer passionate about building <strong>AI-powered</strong>, <strong>ML-driven</strong>, and <strong>full-stack solutions</strong> that create real-world impact.<br>
@@ -26,9 +31,7 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=350&lines=🛠+Tech+Stack" alt="Tech Stack"/>
-</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mongodb,express,react,nodejs,mysql,aws,git,github" height="60" />
@@ -36,9 +39,7 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=350&lines=🏆+Achievements" alt="Achievements"/>
-</h2>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rudrikasharma15&theme=algolia&margin-w=10&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" />
@@ -55,9 +56,7 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=📢+Open+Source+Dashboard" alt="Open Source"/>
-</h2>
+<h2 align="center">📢 Open Source Dashboard</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" />
@@ -71,9 +70,7 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=350&lines=📊+GitHub+Stats" alt="GitHub Stats"/>
-</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
@@ -86,9 +83,7 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=400&lines=🧭+Leadership+Roles" alt="Leadership"/>
-</h2>
+<h2 align="center">🧭 Leadership Roles</h2>
 
 <ul>
   <li><b>Founder & Director</b> – Unscripted Media (65+ team | 1M+ reach | Featured in Campus Times Pune)</li>
@@ -100,9 +95,7 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=350&lines=🌐+Connect+With+Me" alt="Connect"/>
-</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rudrika-sharma-514490271">
