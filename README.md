@@ -55,7 +55,21 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
   <li><b>AI Research Competition — 1st Runner-up (AI in Medicine)</b></li>
 </ul>
 
+
 ---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=1e90ff&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff" />
+</p>
+
+---
+
 
 <h2 align="center">📢 Open Source Dashboard</h2>
 
