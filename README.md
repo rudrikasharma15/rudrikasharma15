@@ -60,20 +60,19 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center" style="padding: 20px; background-color: #0d1117; border-radius: 15px; border: 1px solid #1e90ff; display: inline-block;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=1e90ff&text_color=ffffff" alt="Rudrika's GitHub Stats" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrikasharma15&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=1e90ff&text_color=ffffff&rank_icon=github" alt="Rudrika's GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrikasharma15&theme=react&hide_border=true&background=0d1117&currStreakLabel=00bfff&ring=1e90ff&fire=1e90ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" style="max-width: 100%; border-radius: 10px;" />
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudrikasharma15&theme=react&hide_border=true&background=0d1117&currStreakLabel=00bfff&ring=1e90ff&fire=1e90ff&sideLabels=ffffff&dates=ffffff" alt="Rudrika's GitHub Streaks" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrikasharma15&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff" alt="Rudrika's Top Languages" />
+</p>
 
 ---
-
 
 
 
