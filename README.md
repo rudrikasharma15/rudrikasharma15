@@ -82,12 +82,6 @@ I bring <strong>technical depth, curiosity, and execution power</strong> to ever
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrikasharma15&theme=react-dark&hide_border=true&bg_color=0d1117&color=1e90ff&line=00bfff" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Merged-25-1e90ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Issues%20Closed-10-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Projects-5-4169e1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</p>
-
 ---
 
 
